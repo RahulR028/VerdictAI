@@ -1,7 +1,7 @@
 # VerdictAI
 
-***Indian Penal Code (IPC) Sections Predictor***
-**Overview**
+#***Indian Penal Code (IPC) Sections Predictor***
+#**Overview**
 This project is an implementation of a neural network for the identification of suitable IPC sections based on an offense as input.
 
 **Project Structure**
